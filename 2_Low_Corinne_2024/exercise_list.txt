@@ -1,0 +1,9 @@
+All exercise scripts are stored in
+\2_Low_Corinne_2024\Low_JPE2024_Replication\do\, except
+
+master1_run_first.do
+master2_run_second.m
+the contents of the “m files” folder
+
+These three components were provided by the author.
+Some dataset (census_women and census_men) are too large to be included.
